@@ -1,0 +1,10 @@
+langchain==0.0.174
+gradio==3.28.3
+accelerate~=0.18.0
+sentence-transformers==2.2.2
+transformers==4.29.1
+elasticsearch==8.8.0
+numpy==1.23.5
+torch==2.0.1
+tqdm==4.65.0
+transformers-stream-generator==0.0.4
